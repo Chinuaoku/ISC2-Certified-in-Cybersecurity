@@ -107,4 +107,4 @@ Change management policy (e.g., documentation, approval, rollback)
 Privacy policy
 5.4 - Understand security awareness training
 Purpose/concepts (e.g., social engineering, password protection)
-Importance
+Importance.
